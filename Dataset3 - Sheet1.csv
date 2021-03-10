@@ -1,0 +1,20 @@
+Daipers,Cream,Lotion,
+Tissues,Cotton,,
+Soap,Cream,Lotion,
+Daipers,Soap,Tissues,
+Lotion,Tissues,Cotton,
+Cotton,Cream,Lotion,
+Cream,Lotion,,
+Soap,Daipers,,
+Cream,Soap,Daipers,Lotion
+Lotion,Tissues,Cotton,
+Cotton,Tissues,Cream,
+Cotton,Cream ,Lotion,Daipers
+Soap,Tissues,,
+Tissues,Cream,,
+Cream,Cotton,Tissues,Lotion
+Daipers,Soap,Tissues,
+Cotton,Tissues,,
+Tissues,Soap,Cream,
+Lotion,Soap,,
+Soap ,Tissues,Lotion,
